@@ -14,7 +14,7 @@ This repository contains code and links to instructional videos for the summer w
 
 | Notebook | Description |
 | --- | --- |
-| `this_is_not_a_string.ipynb` | List all new or modified files |
+| `this_is_not_a_string.ipynb` | This Notebook provides a quick walkthrough of data structures, data types, and common errors. The purpose of this Notebook is to help cultivate an awareness of how our computer processes digital data. |
 | `word_counts.ipynb` | Show file differences that haven't been staged |
 | `word_emebeddings.ipynb` | Show file differences that haven't been staged |
 
