@@ -14,8 +14,8 @@ This repository contains code and links to instructional videos for the summer w
 
 | Notebook | Colab | Description |
 | --- | --- | --- |
-| `counting_words.ipynb` | [![Demo](Demo)](https://colab.research.google.com/drive/1Hr-stNw4opeRSJ8H8ShxHt4-3f3XS7av?usp=sharing) | This Notebook covers the basics of ENTER |
-| `this_is_not_a_string.ipynb` | --- | This Notebook provides a quick walkthrough of data structures, data types, and common errors. The purpose of this Notebook is to help cultivate an awareness of how our computer processes digital data compared to how we might perceive data. |
+| `counting_words.ipynb` | --- | This Notebook covers the basics of ENTER |
+| `this_is_not_a_string.ipynb` | [![Demo](Demo)](https://colab.research.google.com/drive/1Hr-stNw4opeRSJ8H8ShxHt4-3f3XS7av?usp=sharing) | This Notebook provides a quick walkthrough of data structures, data types, and common errors. The purpose of this Notebook is to help cultivate an awareness of how our computer processes digital data compared to how we might perceive data. |
 | `word_emebeddings.ipynb` | --- |Word embeddings are (see: "[Text Mining as Historical Method](https://github.com/stephbuon/digital-history)" for the original visualziation. |
 
 #### Get a Copy
