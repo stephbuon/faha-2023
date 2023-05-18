@@ -22,3 +22,11 @@ This repository contains code and links to instructional videos for the summer w
 
 Either click the green "code" button (top right corner) and "Download Zip," or clone the repository over terminal: `git clone https://github.com/stephbuon/faha.git`
 
+## Additional Resources
+
+#### GitHub Repositories
+- Jo Guldi, "[Digital History](https://github.com/joguldi/digital-history/tree/main)"
+- Laura Klein, "[Quantitative Literary Analysis: Theory and Practice](https://github.com/emory-qtm/2023-quant-lit)"
+
+#### Data
+ENTER
