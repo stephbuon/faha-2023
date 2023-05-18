@@ -18,7 +18,7 @@ This repository contains code and links to instructional videos for the summer w
 | `word_counts.ipynb` | Show file differences that haven't been staged |
 | `word_emebeddings.ipynb` | Show file differences that haven't been staged |
 
-## Get a Copy
+### Get a Copy
 
 Either click the green "code" button (top right corner) and "Download Zip," or clone the repository over terminal: `git clone https://github.com/stephbuon/faha.git`
 
