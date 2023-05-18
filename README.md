@@ -1,7 +1,5 @@
 # faha-2023
 
-[![Colab](https://img.shields.io/badge/Colab-Code%20Demo-%23fe9f00)]
-
 The FAHA institute provides online and in-person education aimed at a broad range of humanities scholars. Participants will gain a theoretical and practical understanding of text analysis methods, and will learn how to extract content and derive meaning from digital sources, enabling new humanities scholarship.
 
 This repository contains code and links to instructional videos for the summer workshop. 
@@ -14,10 +12,9 @@ This repository contains code and links to instructional videos for the summer w
 
 ## Code
 
-
 | Notebook | Colab | Description |
 | --- | --- | --- |
-| `counting_words.ipynb` | [![Colab](Demo)](https://colab.research.google.com/drive/1Hr-stNw4opeRSJ8H8ShxHt4-3f3XS7av?usp=sharing) | This Notebook covers the basics of ENTER |
+| `counting_words.ipynb` | [![Demo](Demo)](https://colab.research.google.com/drive/1Hr-stNw4opeRSJ8H8ShxHt4-3f3XS7av?usp=sharing) | This Notebook covers the basics of ENTER |
 | `this_is_not_a_string.ipynb` | --- | This Notebook provides a quick walkthrough of data structures, data types, and common errors. The purpose of this Notebook is to help cultivate an awareness of how our computer processes digital data compared to how we might perceive data. |
 | `word_emebeddings.ipynb` | --- |Word embeddings are (see: "[Text Mining as Historical Method](https://github.com/stephbuon/digital-history)" for the original visualziation. |
 
