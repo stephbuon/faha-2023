@@ -12,7 +12,7 @@ This repository contains code and links to instructional videos for the summer w
 
 ## Code
 
-| Notebook | View on Colab | Description |
+| Notebook | Colab | Description |
 | --- | --- | --- |
 | `counting_words.ipynb` | [![View](View)](https://colab.research.google.com/drive/1Gol8PyHlE_D2HCTHygvQAPrIUFUMlB0s?usp=sharing) | This Notebook covers the basics of ENTER |
 | `this_is_not_a_string.ipynb` | [![View](View)](https://colab.research.google.com/drive/1Hr-stNw4opeRSJ8H8ShxHt4-3f3XS7av?usp=sharing) | This Notebook provides a quick walkthrough of data structures, data types, and common errors. The purpose of this Notebook is to help cultivate an awareness of how our computer processes digital data compared to how we might perceive data. |
