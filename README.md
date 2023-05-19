@@ -28,7 +28,7 @@ Or
 
 #### GitHub Repositories
 - Jo Guldi, "[Digital History](https://github.com/joguldi/digital-history/tree/main)"
-- Laura Klein, "[Quantitative Literary Analysis: Theory and Practice](https://github.com/emory-qtm/2023-quant-lit)"
+- Lauren Klein, "[Quantitative Literary Analysis: Theory and Practice](https://github.com/emory-qtm/2023-quant-lit)"
 
 #### Data
 ENTER
