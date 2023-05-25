@@ -21,7 +21,9 @@ This repository contains code and links to instructional videos for the summer w
 #### Get a Copy
 
 - Click the green "code" button (top right corner) and "Download Zip" 
+
 Or
+
 - Clone the repository via terminal: `git clone https://github.com/stephbuon/faha.git`
 
 ## Additional Resources
