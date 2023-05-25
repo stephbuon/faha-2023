@@ -16,7 +16,7 @@ This repository contains code and links to instructional videos for the summer w
 | --- | --- | --- |
 | `counting_words.ipynb` | [![View](View)](https://colab.research.google.com/drive/1Gol8PyHlE_D2HCTHygvQAPrIUFUMlB0s?usp=sharing) | This Notebook covers some basics of processing text with Python. It invites readers to count words and visualize their results while thinking critically about how the way in which we process text can impact analysis. |
 | `this_is_not_a_string.ipynb` | [![View](View)](https://colab.research.google.com/drive/1Hr-stNw4opeRSJ8H8ShxHt4-3f3XS7av?usp=sharing) | This Notebook provides a quick walkthrough of data structures, data types, and common errors. The purpose of this Notebook is to help cultivate an awareness of how our computer processes digital data compared to how we might perceive that same data. |
-| `word_emebeddings.ipynb` | [![View](View)](https://colab.research.google.com/drive/1h_hUx-P1fvT76TpExIAir9lZkKWl1TSs?usp=sharing) |Word embeddings are (see: "[Text Mining as Historical Method](https://github.com/stephbuon/digital-history)" for the original visualziation. |
+| `word_emebeddings.ipynb` | [![View](View)](https://colab.research.google.com/drive/1h_hUx-P1fvT76TpExIAir9lZkKWl1TSs?usp=sharing) |Word embeddings can provide insight into different dimensions of a corpus. Here we use word embeddings to see, at scale, which words are most associated with one another and how these associations changed over time. (see: "[Text Mining as Historical Method](https://github.com/stephbuon/digital-history)" for the original visualziation.) |
 
 #### Get a Copy
 
