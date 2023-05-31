@@ -31,6 +31,7 @@ Or
 #### GitHub Repositories
 - Jo Guldi, "[Digital History](https://github.com/joguldi/digital-history/tree/main)"
 - Lauren Klein, "[Quantitative Literary Analysis: Theory and Practice](https://github.com/emory-qtm/2023-quant-lit)"
+- Amanda Regan, "[Digial Methods for History (Worksheets)](https://github.com/regan008/8510-Worksheets)"
 
 #### Data
-ENTER
+- Amanda Regan, "[Digial Methods for History (Data)](https://github.com/regan008/DigitalMethodsData)"
