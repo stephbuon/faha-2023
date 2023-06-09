@@ -26,6 +26,9 @@ Or
 
 - Clone the repository via terminal: `git clone https://github.com/stephbuon/faha.git`
 
+## Data
+
+
 ## Additional Resources
 
 #### GitHub Repositories
