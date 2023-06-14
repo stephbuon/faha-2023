@@ -14,7 +14,7 @@ This repository contains code and links to instructional videos for the summer w
 
 | Notebook | Colab | Description |
 | --- | --- | --- |
-| `quick_start.ipynb` | [![View](View)](https://colab.research.google.com/drive/1OMwgqxijbjYVGCprz6W0SyCF-VKD9j9L?usp=sharing) | An introduction to Google Colab. |
+| `quick_start.ipynb` | [![View](View)](https://colab.research.google.com/drive/1OMwgqxijbjYVGCprz6W0SyCF-VKD9j9L?usp=sharing) | An introduction to Google Colab. This notebook also demonstrates how to import our data. |
 | `counting_words.ipynb` | [![View](View)](https://colab.research.google.com/drive/1Gol8PyHlE_D2HCTHygvQAPrIUFUMlB0s?usp=sharing) | This Notebook covers some basics of processing text with Python. It invites readers to count words and visualize their results while thinking critically about how the way in which we process text can impact analysis. |
 | `this_is_not_a_string.ipynb` | [![View](View)](https://colab.research.google.com/drive/1Hr-stNw4opeRSJ8H8ShxHt4-3f3XS7av?usp=sharing) | This Notebook provides a quick walkthrough of data structures, data types, and common errors. The purpose of this Notebook is to help cultivate an awareness of how our computer processes digital data compared to how we might perceive that same data. |
 | `word_emebeddings.ipynb` | [![View](View)](https://colab.research.google.com/drive/1h_hUx-P1fvT76TpExIAir9lZkKWl1TSs?usp=sharing) |Word embeddings can provide insight into different dimensions of a corpus. Here we use word embeddings to view, at scale, which words are most associated with one another and how these associations changed over time. (see: "[Text Mining as Historical Method](https://github.com/stephbuon/digital-history)" for the original version.) |
