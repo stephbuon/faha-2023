@@ -26,9 +26,14 @@ This repository contains code and links to instructional videos for the summer w
 Or
 
 - Clone the repository via terminal: `git clone https://github.com/stephbuon/faha.git`
-
+- 
 ## Data
 
+[Hansard c19 Data](https://smu.app.box.com/folder/167138540033)
+
+Citation: 
+
+Buongiorno, Steph, Robert Kalescky, Omar Alexander Cerpa, and Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse, V1, 2022, UNF:6:wFlN6+URD9Q9BWYxgZgu1A== [fileUNF]
 
 ## Additional Resources
 
