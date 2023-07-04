@@ -26,10 +26,10 @@ This repository contains code and links to instructional videos for the summer w
 Or
 
 - Clone the repository via terminal: `git clone https://github.com/stephbuon/faha.git`
-- 
+  
 ## Data
 
-[Hansard c19 Data](https://smu.app.box.com/folder/167138540033)
+[Hansard c19 Data](https://santafe.box.com/s/esc5f8zvqieg31sdrk5q3bp82hv8x1pl)
 
 Citation: 
 
