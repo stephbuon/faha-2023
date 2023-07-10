@@ -29,8 +29,14 @@ Or
   
 ## Data
 
+Hansard:
+
 - [Hansard: Sentences with Woman](https://santafe.box.com/s/5bxa1bj3ewq148j3iu895t2uc4b85dh3)
 - [Hansard 19th-Century Data](https://santafe.box.com/s/esc5f8zvqieg31sdrk5q3bp82hv8x1pl)
+
+Reddit: 
+
+- [AITA](https://colab.research.google.com/drive/11tKkdcOLJKPR1O3Byi_c1lczhU4q_m4j#scrollTo=5kOz9Sics9vv)
 
 Citation: 
 
