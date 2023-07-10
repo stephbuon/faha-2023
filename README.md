@@ -36,7 +36,7 @@ Hansard:
 
 Reddit: 
 
-- [AITA](https://colab.research.google.com/drive/11tKkdcOLJKPR1O3Byi_c1lczhU4q_m4j#scrollTo=5kOz9Sics9vv)
+- [AITA](https://drive.google.com/file/d/1G56HfuOgWFzRF1LS0DBMbPm1IztjxyMy/view?usp=sharing)
 
 Citation: 
 
