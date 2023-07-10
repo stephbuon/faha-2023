@@ -51,3 +51,4 @@ Buongiorno, Steph, Robert Kalescky, Omar Alexander Cerpa, and Jo Guldi. "The Han
 
 #### Data
 - Amanda Regan, "[Digial Methods for History (Data)](https://github.com/regan008/DigitalMethodsData)"
+- [rOpenGov](https://github.com/rOpenGov)
