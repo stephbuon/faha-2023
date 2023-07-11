@@ -30,17 +30,28 @@ Or
 ## Data
 
 Hansard:
-
 - [Hansard: Sentences with Woman](https://santafe.box.com/s/5bxa1bj3ewq148j3iu895t2uc4b85dh3)
-- [Hansard 19th-Century Data](https://santafe.box.com/s/esc5f8zvqieg31sdrk5q3bp82hv8x1pl)
+- [Hansard: 19th-Century](https://colab.research.google.com/drive/1gFmshpbk6Kp8Zuty__Cy8pqk3bbj7QcF#scrollTo=b_rP2AKBbBzK)
+- [Hansard: 1980s](https://colab.research.google.com/drive/1EjkQ5gH1kDoi0Vmzop2KC6fkdAwwIaZj)
+- [Hansard: 1990s](https://colab.research.google.com/drive/1MppFuE_InfgEyWYkAUKkq6hedAOoiWaF)
+- [Hansard: 2000](https://colab.research.google.com/drive/1Gdxw7lcIvwWZdWvn8q8XGueo09iZ-2cq)
+- [Hansard: 2010](https://colab.research.google.com/drive/1EvFcZHUx5KoL_gdOIU-Vdw8gLbPGRZTT)
+
+Congress:
+- [Congress 2001](https://colab.research.google.com/drive/19_OxTfpmWNEfb3EQYSVM0HjgOpL-UGec)
 
 Reddit: 
-
 - [AITA](https://colab.research.google.com/drive/1G56HfuOgWFzRF1LS0DBMbPm1IztjxyMy)
+- [Relationships](https://colab.research.google.com/drive/1pmRiC66IVsORPWH5_3ZlGIOWInm-8q65)
+- [ChangeMyView](https://colab.research.google.com/drive/1yOPsIx3jfNtj93uBJ3fqsXR_VpvlPfJa)
 
-Citation: 
+[Buffy Fanfic](https://colab.research.google.com/drive/1gbzGT6TPQ2q_dS49X8rqLvZULxpr6T_E)
 
-Buongiorno, Steph, Robert Kalescky, Omar Alexander Cerpa, and Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse, V1, 2022, UNF:6:wFlN6+URD9Q9BWYxgZgu1A== [fileUNF]
+[CauseNet](https://colab.research.google.com/drive/1nUEHXmwxZOSzcMqr2O3j3wVXbwseXFU6?usp=drive_link)
+
+[Loudoun County School Board Minutes](https://colab.research.google.com/drive/1BFXYdh7qjFNl5mF_POrkXlXUGPYZ49ai)
+
+[Gutenberg Poetry](https://colab.research.google.com/drive/1ADfwkESwDPkEBbYgrzFXgBrxNZvL4mnc)
 
 ## Additional Resources
 
@@ -52,3 +63,7 @@ Buongiorno, Steph, Robert Kalescky, Omar Alexander Cerpa, and Jo Guldi. "The Han
 #### Data
 - Amanda Regan, "[Digial Methods for History (Data)](https://github.com/regan008/DigitalMethodsData)"
 - [rOpenGov](https://github.com/rOpenGov)
+
+#### Data Citations:
+
+Buongiorno, Steph, Robert Kalescky, Omar Alexander Cerpa, and Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse, V1, 2022, UNF:6:wFlN6+URD9Q9BWYxgZgu1A== [fileUNF]
